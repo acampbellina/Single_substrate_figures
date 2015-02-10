@@ -6,3 +6,4 @@ figures/linreg_shared_respdrs/linreg_shared_respdrs.png
 figures/LTP_blast_table_PS/LTP_blast_table_PS.png
 figures/ordination_allD30/ordination_allD30.png
 figures/ordination_SS_PSpanel/ordination_SS_PSpanel.png
+figures/shift_and_rabund/shift_and_rabund.png
