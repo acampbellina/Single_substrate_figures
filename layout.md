@@ -5,3 +5,4 @@ figures/linreg_3panel/linreg_3panel.png
 figures/linreg_shared_respdrs/linreg_shared_respdrs.png
 figures/LTP_blast_table_PS/LTP_blast_table_PS.png
 figures/ordination_allD30/ordination_allD30.png
+figures/ordination_SS_PSpanel/ordination_SS_PSpanel.png
