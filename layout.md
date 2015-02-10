@@ -4,3 +4,4 @@ figures/l2fc_dotplotby_phylum/l2fc_dotplotby_phylum.png
 figures/linreg_3panel/linreg_3panel.png
 figures/linreg_shared_respdrs/linreg_shared_respdrs.png
 figures/LTP_blast_table_PS/LTP_blast_table_PS.png
+figures/ordination_allD30/ordination_allD30.png
