@@ -1,5 +1,4 @@
 figures/ordination_allD30/ordination_allD30.png
-figures/ordination_SS_PSpanel/ordination_SS_PSpanel.png
 figures/ordination_SS_PSpanel1/ordination_SS_PSpanel1.png
 figures/linreg_3panel1/linreg_3panel1.png
 figures/linreg_shared_respdrs/linreg_shared_respdrs.png
