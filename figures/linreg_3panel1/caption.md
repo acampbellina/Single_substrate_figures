@@ -1,1 +1,1 @@
-Replace this text with your caption
+Figure X. Fold change values for all OTUs in both treatments (A) with linear regression trendline and standard error (p-value: ,r2: ). OTU points colored by response (B); not a responder in either treatment (red), a responder in either one of the treatments (green), or a responder in both treatments (blue). (C) Fold change values for only OTUs that are identified as responders in either cellulose only (purple), complex carbon mixture (orange), or both (green) with linear regression trendline (p-value: ,r2: ). 
