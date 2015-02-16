@@ -3,6 +3,7 @@ figures/KDE_byPhylum_panel/KDE_byPhylum_panel.png
 figures/BDshift_boxplot_phylum/BDshift_boxplot_phylum.png
 figures/BDshift_scatter_phylum/BDshift_scatter_phylum.png
 figures/l2fc_dotplotby_phylum/l2fc_dotplotby_phylum.png
+figures/linreg_3panel1/linreg_3panel1.png
 figures/linreg_shared_respdrs/linreg_shared_respdrs.png
 figures/LTP_blast_table_PS/LTP_blast_table_PS.png
 figures/ordination_allD30/ordination_allD30.png
