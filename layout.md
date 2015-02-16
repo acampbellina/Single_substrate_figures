@@ -1,6 +1,5 @@
 figures/ordination_allD30/ordination_allD30.png
 figures/ordination_SS_PSpanel/ordination_SS_PSpanel.png
-untitled.tex
 figures/KDE_byPhylum_panel/KDE_byPhylum_panel.png
 figures/BDshift_boxplot_phylum/BDshift_boxplot_phylum.png
 figures/BDshift_scatter_phylum/BDshift_scatter_phylum.png
