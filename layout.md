@@ -1,5 +1,6 @@
 untitled.tex
 figures/KDE_byPhylum_panel/KDE_byPhylum_panel.png
+figures/BDshift_boxplot_phylum/BDshift_boxplot_phylum.png
 figures/l2fc_dotplotby_phylum/l2fc_dotplotby_phylum.png
 figures/linreg_3panel/linreg_3panel.png
 figures/linreg_shared_respdrs/linreg_shared_respdrs.png
